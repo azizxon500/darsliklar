@@ -1,0 +1,1 @@
+print("Joyimizga o'tirib turamiz")
